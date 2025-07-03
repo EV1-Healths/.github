@@ -1,6 +1,6 @@
 # EV1 Health – Personalized Wellness, Redefined
 
-**EV1** is a health, fitness, and wellness app powered by AI. We help people feel their best through personalized workouts, intelligent habit tracking, mindfulness support, and real-time insights — all in one experience.
+**EV1** is a health, fitness, and wellness app powered by AI. We help people feel their best through personalized workouts, intelligent habit tracking, mindfulness support, and real-time insights all in one experience.
 
 🌐 Visit: [ev1health.com](https://ev1health.com)
 
@@ -44,7 +44,7 @@ EV1 is available globally on:
 
 ## 👨‍💼 About Us
 
-EV1 is designed and developed by a team of health enthusiasts, engineers, and behavioral scientists. Our mission is to make sustainable well-being simple and accessible — through intelligent, personal tools that work for everyone.
+EV1 is designed and developed by a team of health enthusiasts, engineers, and behavioral scientists. Our mission is to make sustainable well-being simple and accessible through intelligent, personal tools that work for everyone.
 
 ---
 
