@@ -52,7 +52,7 @@ EV1 is designed and developed by a team of health enthusiasts, engineers, and be
 
 - 🌐 [Website](https://ev1health.com)
 - 🐦 [Twitter](https://twitter.com/ev1health)
-- 🌐 [Linkedin]([https://instagram.com/ev1health](https://www.linkedin.com/company/ev1-health))
+- 🌐 [Linkedin](https://www.linkedin.com/company/ev1-health)
 - 📬 [info@ev1health.com](mailto:info@ev1health.com)
 
 ---
