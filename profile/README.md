@@ -12,7 +12,7 @@ EV1 is built to help you build lasting routines around your mind and body. Using
 Our platform adapts to you, not the other way around.
 
 
-## ✨ Core Features
+## Core Features
 
 - **Personalized Workouts**  
   Adaptive fitness plans tailored to your goals, schedule, and recovery patterns.
@@ -29,22 +29,20 @@ Our platform adapts to you, not the other way around.
 - **Data Integration**  
   Sync with Apple Health and Google Fit for deeper insights.
 
----
 
-## 📱 Availability
+## Availability
 
 EV1 is available globally on:
 
 - [Google Play Store](#) *(coming soon)*
 - [Apple App Store](#) *(coming soon)*
 
----
 
 ## About Us
 
 EV1 is designed and developed by a team of health enthusiasts, engineers, and behavioral scientists. Our mission is to make sustainable well-being simple and accessible through intelligent, personal tools that work for everyone.
 
----
+
 
 ##  Stay Connected
 
